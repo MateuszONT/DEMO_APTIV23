@@ -1,3 +1,5 @@
+%Startup file
+
 % Clear workspace
 clear
 
